@@ -3,3 +3,5 @@
 ✅ LCD Displays Instructions: Shows "Grasp Complete! Release & Press" message on LCD.
 
 This ensures the system doesn't restart automatically, making it wait for user interaction before resetting. 🚀
+
+code:
