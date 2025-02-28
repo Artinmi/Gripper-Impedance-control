@@ -8,7 +8,8 @@
 // ---------------------------
 Adafruit_INA219 ina219;
 Servo myServo;
-
+1
+  2
   
 // Create an LCD object. Adjust pins based on your wiring:
 // lcd(RS, E, D4, D5, D6, D7)
