@@ -1,8 +1,6 @@
 # Robotic Gripper with Impedance and Current Feedback Control
 
 ## Abstract
-1
-
 This project involves designing and implementing a **robotic gripper** that utilizes **impedance control** to adaptively grip objects of varying stiffness. The gripper is designed in **SolidWorks**, optimized, and then **3D printed**. The system integrates **two controllers**—an **impedance controller** and a **current feedback controller**—to ensure safe and effective gripping of different objects. The gripper consists of **two graspers** and can hold objects ranging from **1 cm to 5 cm** in size. A **hybrid control approach** is used to select the optimal gripping force by comparing the desired force calculated by both controllers. The real-time force values are displayed using an **Arduino and a display module**.
 
 ---
